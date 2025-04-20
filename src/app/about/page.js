@@ -163,7 +163,7 @@ export default function AboutPage() {
             >
               <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">Biography</h2>
               <p className="text-lg text-gray-800 mb-6">
-                Idowu Adeyemi (born 4 April 1993), known professionally as Yhemolee is a Nigerian singer, actor, and social media personality. He gained recognition following the commercial release of his single "Mon Cheri" featuring Chinko Ekun and Asake in 2020.
+                Idowu Adeyemi (born 4 April 1993), known professionally as Yhemolee is a Nigerian singer, actor, and social media personality. He gained recognition following the commercial release of his single (Mon Cheri) featuring Chinko Ekun and Asake in 2020.
               </p>
               <a 
                 href="https://en.wikipedia.org/wiki/Yhemolee" 
